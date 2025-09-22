@@ -1,11 +1,20 @@
-# Desafios C# Console
+# C# Console Challenges
 
-Este repositório contém uma coleção de desafios em C# para console, organizados em dificuldade.
+This repository contains a collection of C# console challenges, organized by difficulty level.
 
-* Fundamentos básicos (variáveis, entrada e saída, operadores).
+## 📌 About
+The goal of this repository is to practice and improve C# skills step by step, starting from the basics and gradually moving toward advanced concepts — always coding directly in the console.
 
-* Projetos intermediários (coleções, POO, arquivos).
+Some very basic challenges were skipped to focus on the most relevant and practical exercises.
 
-* Desafios avançados (LINQ, algoritmos, boas práticas).
+## 🧩 Topics Covered
+- Basic programming fundamentals (variables, input/output, operators, conditions, loops).
+- Intermediate challenges (arrays, lists, dictionaries, methods, algorithms).
+- Object-Oriented Programming (classes, inheritance, polymorphism, interfaces, abstraction).
+- Advanced topics (LINQ, file handling, JSON, exception handling, multithreading).
+- Mini projects and console-based games.
 
-A proposta é evoluir passo a passo no C#, começando do zero até conceitos avançados, praticando diretamente no console.
+## 🎯 Objective
+Build programming logic, strengthen knowledge in C# .NET, and have fun completing challenges of increasing difficulty.
+
+---
