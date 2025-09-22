@@ -1,0 +1,14 @@
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Soma_matrix_2x2\Soma_matrix_2x2\bin\Debug\net8.0\Soma_matrix_2x2.exe
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Soma_matrix_2x2\Soma_matrix_2x2\bin\Debug\net8.0\Soma_matrix_2x2.deps.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Soma_matrix_2x2\Soma_matrix_2x2\bin\Debug\net8.0\Soma_matrix_2x2.runtimeconfig.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Soma_matrix_2x2\Soma_matrix_2x2\bin\Debug\net8.0\Soma_matrix_2x2.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Soma_matrix_2x2\Soma_matrix_2x2\bin\Debug\net8.0\Soma_matrix_2x2.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Soma_matrix_2x2\Soma_matrix_2x2\obj\Debug\net8.0\Soma_matrix_2x2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Soma_matrix_2x2\Soma_matrix_2x2\obj\Debug\net8.0\Soma_matrix_2x2.AssemblyInfoInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Soma_matrix_2x2\Soma_matrix_2x2\obj\Debug\net8.0\Soma_matrix_2x2.AssemblyInfo.cs
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Soma_matrix_2x2\Soma_matrix_2x2\obj\Debug\net8.0\Soma_matrix_2x2.csproj.CoreCompileInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Soma_matrix_2x2\Soma_matrix_2x2\obj\Debug\net8.0\Soma_matrix_2x2.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Soma_matrix_2x2\Soma_matrix_2x2\obj\Debug\net8.0\refint\Soma_matrix_2x2.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Soma_matrix_2x2\Soma_matrix_2x2\obj\Debug\net8.0\Soma_matrix_2x2.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Soma_matrix_2x2\Soma_matrix_2x2\obj\Debug\net8.0\Soma_matrix_2x2.genruntimeconfig.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Soma_matrix_2x2\Soma_matrix_2x2\obj\Debug\net8.0\ref\Soma_matrix_2x2.dll

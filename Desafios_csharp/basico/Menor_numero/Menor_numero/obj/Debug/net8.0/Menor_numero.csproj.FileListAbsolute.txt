@@ -1,0 +1,14 @@
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Menor_numero\Menor_numero\obj\Debug\net8.0\Menor_numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Menor_numero\Menor_numero\obj\Debug\net8.0\Menor_numero.AssemblyInfoInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Menor_numero\Menor_numero\obj\Debug\net8.0\Menor_numero.AssemblyInfo.cs
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Menor_numero\Menor_numero\obj\Debug\net8.0\Menor_numero.csproj.CoreCompileInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Menor_numero\Menor_numero\bin\Debug\net8.0\Menor_numero.exe
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Menor_numero\Menor_numero\bin\Debug\net8.0\Menor_numero.deps.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Menor_numero\Menor_numero\bin\Debug\net8.0\Menor_numero.runtimeconfig.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Menor_numero\Menor_numero\bin\Debug\net8.0\Menor_numero.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Menor_numero\Menor_numero\bin\Debug\net8.0\Menor_numero.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Menor_numero\Menor_numero\obj\Debug\net8.0\Menor_numero.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Menor_numero\Menor_numero\obj\Debug\net8.0\refint\Menor_numero.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Menor_numero\Menor_numero\obj\Debug\net8.0\Menor_numero.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Menor_numero\Menor_numero\obj\Debug\net8.0\Menor_numero.genruntimeconfig.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Menor_numero\Menor_numero\obj\Debug\net8.0\ref\Menor_numero.dll

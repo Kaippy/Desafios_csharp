@@ -1,0 +1,14 @@
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Tabuleiro_3x3\Tabuleiro_3x3\bin\Debug\net8.0\Tabuleiro_3x3.exe
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Tabuleiro_3x3\Tabuleiro_3x3\bin\Debug\net8.0\Tabuleiro_3x3.deps.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Tabuleiro_3x3\Tabuleiro_3x3\bin\Debug\net8.0\Tabuleiro_3x3.runtimeconfig.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Tabuleiro_3x3\Tabuleiro_3x3\bin\Debug\net8.0\Tabuleiro_3x3.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Tabuleiro_3x3\Tabuleiro_3x3\bin\Debug\net8.0\Tabuleiro_3x3.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Tabuleiro_3x3\Tabuleiro_3x3\obj\Debug\net8.0\Tabuleiro_3x3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Tabuleiro_3x3\Tabuleiro_3x3\obj\Debug\net8.0\Tabuleiro_3x3.AssemblyInfoInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Tabuleiro_3x3\Tabuleiro_3x3\obj\Debug\net8.0\Tabuleiro_3x3.AssemblyInfo.cs
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Tabuleiro_3x3\Tabuleiro_3x3\obj\Debug\net8.0\Tabuleiro_3x3.csproj.CoreCompileInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Tabuleiro_3x3\Tabuleiro_3x3\obj\Debug\net8.0\Tabuleiro_3x3.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Tabuleiro_3x3\Tabuleiro_3x3\obj\Debug\net8.0\refint\Tabuleiro_3x3.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Tabuleiro_3x3\Tabuleiro_3x3\obj\Debug\net8.0\Tabuleiro_3x3.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Tabuleiro_3x3\Tabuleiro_3x3\obj\Debug\net8.0\Tabuleiro_3x3.genruntimeconfig.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Tabuleiro_3x3\Tabuleiro_3x3\obj\Debug\net8.0\ref\Tabuleiro_3x3.dll

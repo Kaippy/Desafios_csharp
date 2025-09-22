@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Impar_ou_par/1.0.0": {
+        "runtime": {
+          "Impar_ou_par.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Impar_ou_par/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

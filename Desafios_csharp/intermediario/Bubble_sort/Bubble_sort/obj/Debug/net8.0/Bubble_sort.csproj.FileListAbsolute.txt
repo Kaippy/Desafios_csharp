@@ -1,0 +1,14 @@
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Bubble_sort\Bubble_sort\bin\Debug\net8.0\Bubble_sort.exe
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Bubble_sort\Bubble_sort\bin\Debug\net8.0\Bubble_sort.deps.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Bubble_sort\Bubble_sort\bin\Debug\net8.0\Bubble_sort.runtimeconfig.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Bubble_sort\Bubble_sort\bin\Debug\net8.0\Bubble_sort.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Bubble_sort\Bubble_sort\bin\Debug\net8.0\Bubble_sort.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Bubble_sort\Bubble_sort\obj\Debug\net8.0\Bubble_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Bubble_sort\Bubble_sort\obj\Debug\net8.0\Bubble_sort.AssemblyInfoInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Bubble_sort\Bubble_sort\obj\Debug\net8.0\Bubble_sort.AssemblyInfo.cs
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Bubble_sort\Bubble_sort\obj\Debug\net8.0\Bubble_sort.csproj.CoreCompileInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Bubble_sort\Bubble_sort\obj\Debug\net8.0\Bubble_sort.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Bubble_sort\Bubble_sort\obj\Debug\net8.0\refint\Bubble_sort.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Bubble_sort\Bubble_sort\obj\Debug\net8.0\Bubble_sort.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Bubble_sort\Bubble_sort\obj\Debug\net8.0\Bubble_sort.genruntimeconfig.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Bubble_sort\Bubble_sort\obj\Debug\net8.0\ref\Bubble_sort.dll

@@ -1,0 +1,14 @@
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Array_basico\Array_basico\bin\Debug\net8.0\Array_basico.exe
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Array_basico\Array_basico\bin\Debug\net8.0\Array_basico.deps.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Array_basico\Array_basico\bin\Debug\net8.0\Array_basico.runtimeconfig.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Array_basico\Array_basico\bin\Debug\net8.0\Array_basico.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Array_basico\Array_basico\bin\Debug\net8.0\Array_basico.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Array_basico\Array_basico\obj\Debug\net8.0\Array_basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Array_basico\Array_basico\obj\Debug\net8.0\Array_basico.AssemblyInfoInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Array_basico\Array_basico\obj\Debug\net8.0\Array_basico.AssemblyInfo.cs
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Array_basico\Array_basico\obj\Debug\net8.0\Array_basico.csproj.CoreCompileInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Array_basico\Array_basico\obj\Debug\net8.0\Array_basico.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Array_basico\Array_basico\obj\Debug\net8.0\refint\Array_basico.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Array_basico\Array_basico\obj\Debug\net8.0\Array_basico.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Array_basico\Array_basico\obj\Debug\net8.0\Array_basico.genruntimeconfig.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Array_basico\Array_basico\obj\Debug\net8.0\ref\Array_basico.dll

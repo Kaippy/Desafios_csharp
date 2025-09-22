@@ -1,0 +1,14 @@
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Media_de_notas\Media_de_notas\bin\Debug\net8.0\Media_de_notas.exe
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Media_de_notas\Media_de_notas\bin\Debug\net8.0\Media_de_notas.deps.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Media_de_notas\Media_de_notas\bin\Debug\net8.0\Media_de_notas.runtimeconfig.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Media_de_notas\Media_de_notas\bin\Debug\net8.0\Media_de_notas.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Media_de_notas\Media_de_notas\bin\Debug\net8.0\Media_de_notas.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Media_de_notas\Media_de_notas\obj\Debug\net8.0\Media_de_notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Media_de_notas\Media_de_notas\obj\Debug\net8.0\Media_de_notas.AssemblyInfoInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Media_de_notas\Media_de_notas\obj\Debug\net8.0\Media_de_notas.AssemblyInfo.cs
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Media_de_notas\Media_de_notas\obj\Debug\net8.0\Media_de_notas.csproj.CoreCompileInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Media_de_notas\Media_de_notas\obj\Debug\net8.0\Media_de_notas.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Media_de_notas\Media_de_notas\obj\Debug\net8.0\refint\Media_de_notas.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Media_de_notas\Media_de_notas\obj\Debug\net8.0\Media_de_notas.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Media_de_notas\Media_de_notas\obj\Debug\net8.0\Media_de_notas.genruntimeconfig.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Media_de_notas\Media_de_notas\obj\Debug\net8.0\ref\Media_de_notas.dll

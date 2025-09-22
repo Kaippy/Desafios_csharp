@@ -1,0 +1,14 @@
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Jogo_adivinhe_o_numero\Jogo_adivinhe_o_numero\bin\Debug\net8.0\Jogo_adivinhe_o_numero.exe
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Jogo_adivinhe_o_numero\Jogo_adivinhe_o_numero\bin\Debug\net8.0\Jogo_adivinhe_o_numero.deps.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Jogo_adivinhe_o_numero\Jogo_adivinhe_o_numero\bin\Debug\net8.0\Jogo_adivinhe_o_numero.runtimeconfig.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Jogo_adivinhe_o_numero\Jogo_adivinhe_o_numero\bin\Debug\net8.0\Jogo_adivinhe_o_numero.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Jogo_adivinhe_o_numero\Jogo_adivinhe_o_numero\bin\Debug\net8.0\Jogo_adivinhe_o_numero.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Jogo_adivinhe_o_numero\Jogo_adivinhe_o_numero\obj\Debug\net8.0\Jogo_adivinhe_o_numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Jogo_adivinhe_o_numero\Jogo_adivinhe_o_numero\obj\Debug\net8.0\Jogo_adivinhe_o_numero.AssemblyInfoInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Jogo_adivinhe_o_numero\Jogo_adivinhe_o_numero\obj\Debug\net8.0\Jogo_adivinhe_o_numero.AssemblyInfo.cs
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Jogo_adivinhe_o_numero\Jogo_adivinhe_o_numero\obj\Debug\net8.0\Jogo_adivinhe_o_numero.csproj.CoreCompileInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Jogo_adivinhe_o_numero\Jogo_adivinhe_o_numero\obj\Debug\net8.0\Jogo_adivinhe_o_numero.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Jogo_adivinhe_o_numero\Jogo_adivinhe_o_numero\obj\Debug\net8.0\refint\Jogo_adivinhe_o_numero.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Jogo_adivinhe_o_numero\Jogo_adivinhe_o_numero\obj\Debug\net8.0\Jogo_adivinhe_o_numero.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Jogo_adivinhe_o_numero\Jogo_adivinhe_o_numero\obj\Debug\net8.0\Jogo_adivinhe_o_numero.genruntimeconfig.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Jogo_adivinhe_o_numero\Jogo_adivinhe_o_numero\obj\Debug\net8.0\ref\Jogo_adivinhe_o_numero.dll

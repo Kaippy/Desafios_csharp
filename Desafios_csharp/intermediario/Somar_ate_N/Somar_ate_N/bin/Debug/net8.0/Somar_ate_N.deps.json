@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Somar_ate_N/1.0.0": {
+        "runtime": {
+          "Somar_ate_N.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Somar_ate_N/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

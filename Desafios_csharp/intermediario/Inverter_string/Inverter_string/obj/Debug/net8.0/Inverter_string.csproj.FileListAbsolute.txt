@@ -1,0 +1,14 @@
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Inverter_string\Inverter_string\bin\Debug\net8.0\Inverter_string.exe
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Inverter_string\Inverter_string\bin\Debug\net8.0\Inverter_string.deps.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Inverter_string\Inverter_string\bin\Debug\net8.0\Inverter_string.runtimeconfig.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Inverter_string\Inverter_string\bin\Debug\net8.0\Inverter_string.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Inverter_string\Inverter_string\bin\Debug\net8.0\Inverter_string.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Inverter_string\Inverter_string\obj\Debug\net8.0\Inverter_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Inverter_string\Inverter_string\obj\Debug\net8.0\Inverter_string.AssemblyInfoInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Inverter_string\Inverter_string\obj\Debug\net8.0\Inverter_string.AssemblyInfo.cs
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Inverter_string\Inverter_string\obj\Debug\net8.0\Inverter_string.csproj.CoreCompileInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Inverter_string\Inverter_string\obj\Debug\net8.0\Inverter_string.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Inverter_string\Inverter_string\obj\Debug\net8.0\refint\Inverter_string.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Inverter_string\Inverter_string\obj\Debug\net8.0\Inverter_string.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Inverter_string\Inverter_string\obj\Debug\net8.0\Inverter_string.genruntimeconfig.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Inverter_string\Inverter_string\obj\Debug\net8.0\ref\Inverter_string.dll

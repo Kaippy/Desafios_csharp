@@ -1,0 +1,14 @@
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Somar_ate_N\Somar_ate_N\bin\Debug\net8.0\Somar_ate_N.exe
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Somar_ate_N\Somar_ate_N\bin\Debug\net8.0\Somar_ate_N.deps.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Somar_ate_N\Somar_ate_N\bin\Debug\net8.0\Somar_ate_N.runtimeconfig.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Somar_ate_N\Somar_ate_N\bin\Debug\net8.0\Somar_ate_N.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Somar_ate_N\Somar_ate_N\bin\Debug\net8.0\Somar_ate_N.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Somar_ate_N\Somar_ate_N\obj\Debug\net8.0\Somar_ate_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Somar_ate_N\Somar_ate_N\obj\Debug\net8.0\Somar_ate_N.AssemblyInfoInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Somar_ate_N\Somar_ate_N\obj\Debug\net8.0\Somar_ate_N.AssemblyInfo.cs
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Somar_ate_N\Somar_ate_N\obj\Debug\net8.0\Somar_ate_N.csproj.CoreCompileInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Somar_ate_N\Somar_ate_N\obj\Debug\net8.0\Somar_ate_N.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Somar_ate_N\Somar_ate_N\obj\Debug\net8.0\refint\Somar_ate_N.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Somar_ate_N\Somar_ate_N\obj\Debug\net8.0\Somar_ate_N.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Somar_ate_N\Somar_ate_N\obj\Debug\net8.0\Somar_ate_N.genruntimeconfig.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Somar_ate_N\Somar_ate_N\obj\Debug\net8.0\ref\Somar_ate_N.dll

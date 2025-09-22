@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Contar_vogais/1.0.0": {
+        "runtime": {
+          "Contar_vogais.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contar_vogais/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

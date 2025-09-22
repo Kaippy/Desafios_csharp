@@ -1,0 +1,14 @@
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Impar_ou_par\Impar_ou_par\obj\Debug\net8.0\Impar_ou_par.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Impar_ou_par\Impar_ou_par\obj\Debug\net8.0\Impar_ou_par.AssemblyInfoInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Impar_ou_par\Impar_ou_par\obj\Debug\net8.0\Impar_ou_par.AssemblyInfo.cs
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Impar_ou_par\Impar_ou_par\obj\Debug\net8.0\Impar_ou_par.csproj.CoreCompileInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Impar_ou_par\Impar_ou_par\bin\Debug\net8.0\Impar_ou_par.exe
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Impar_ou_par\Impar_ou_par\bin\Debug\net8.0\Impar_ou_par.deps.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Impar_ou_par\Impar_ou_par\bin\Debug\net8.0\Impar_ou_par.runtimeconfig.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Impar_ou_par\Impar_ou_par\bin\Debug\net8.0\Impar_ou_par.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Impar_ou_par\Impar_ou_par\bin\Debug\net8.0\Impar_ou_par.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Impar_ou_par\Impar_ou_par\obj\Debug\net8.0\Impar_ou_par.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Impar_ou_par\Impar_ou_par\obj\Debug\net8.0\refint\Impar_ou_par.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Impar_ou_par\Impar_ou_par\obj\Debug\net8.0\Impar_ou_par.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Impar_ou_par\Impar_ou_par\obj\Debug\net8.0\Impar_ou_par.genruntimeconfig.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Impar_ou_par\Impar_ou_par\obj\Debug\net8.0\ref\Impar_ou_par.dll

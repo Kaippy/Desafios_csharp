@@ -1,0 +1,14 @@
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Contagem_regressiva\Contagem_regressiva\obj\Debug\net8.0\Contagem_regressiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Contagem_regressiva\Contagem_regressiva\obj\Debug\net8.0\Contagem_regressiva.AssemblyInfoInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Contagem_regressiva\Contagem_regressiva\obj\Debug\net8.0\Contagem_regressiva.AssemblyInfo.cs
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Contagem_regressiva\Contagem_regressiva\obj\Debug\net8.0\Contagem_regressiva.csproj.CoreCompileInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Contagem_regressiva\Contagem_regressiva\bin\Debug\net8.0\Contagem_regressiva.exe
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Contagem_regressiva\Contagem_regressiva\bin\Debug\net8.0\Contagem_regressiva.deps.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Contagem_regressiva\Contagem_regressiva\bin\Debug\net8.0\Contagem_regressiva.runtimeconfig.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Contagem_regressiva\Contagem_regressiva\bin\Debug\net8.0\Contagem_regressiva.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Contagem_regressiva\Contagem_regressiva\bin\Debug\net8.0\Contagem_regressiva.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Contagem_regressiva\Contagem_regressiva\obj\Debug\net8.0\Contagem_regressiva.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Contagem_regressiva\Contagem_regressiva\obj\Debug\net8.0\refint\Contagem_regressiva.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Contagem_regressiva\Contagem_regressiva\obj\Debug\net8.0\Contagem_regressiva.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Contagem_regressiva\Contagem_regressiva\obj\Debug\net8.0\Contagem_regressiva.genruntimeconfig.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\basico\Contagem_regressiva\Contagem_regressiva\obj\Debug\net8.0\ref\Contagem_regressiva.dll
