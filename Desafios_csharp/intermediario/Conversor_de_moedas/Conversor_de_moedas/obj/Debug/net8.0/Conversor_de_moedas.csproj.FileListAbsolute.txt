@@ -1,4 +1,0 @@
-C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Conversor_de_moedas\Conversor_de_moedas\obj\Debug\net8.0\Conversor_de_moedas.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Conversor_de_moedas\Conversor_de_moedas\obj\Debug\net8.0\Conversor_de_moedas.AssemblyInfoInputs.cache
-C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Conversor_de_moedas\Conversor_de_moedas\obj\Debug\net8.0\Conversor_de_moedas.AssemblyInfo.cs
-C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios_1-100_csharp\intermediario\Conversor_de_moedas\Conversor_de_moedas\obj\Debug\net8.0\Conversor_de_moedas.csproj.CoreCompileInputs.cache
