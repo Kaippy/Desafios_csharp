@@ -1,0 +1,15 @@
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Remove_duplicates\Remove_duplicates\bin\Debug\net9.0\Remove_duplicates.exe
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Remove_duplicates\Remove_duplicates\bin\Debug\net9.0\Remove_duplicates.deps.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Remove_duplicates\Remove_duplicates\bin\Debug\net9.0\Remove_duplicates.runtimeconfig.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Remove_duplicates\Remove_duplicates\bin\Debug\net9.0\Remove_duplicates.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Remove_duplicates\Remove_duplicates\bin\Debug\net9.0\Remove_duplicates.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Remove_duplicates\Remove_duplicates\obj\Debug\net9.0\Remove_duplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Remove_duplicates\Remove_duplicates\obj\Debug\net9.0\Remove_duplicates.AssemblyInfoInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Remove_duplicates\Remove_duplicates\obj\Debug\net9.0\Remove_duplicates.AssemblyInfo.cs
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Remove_duplicates\Remove_duplicates\obj\Debug\net9.0\Remove_duplicates.csproj.CoreCompileInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Remove_duplicates\Remove_duplicates\obj\Debug\net9.0\Remove_duplicates.sourcelink.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Remove_duplicates\Remove_duplicates\obj\Debug\net9.0\Remove_duplicates.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Remove_duplicates\Remove_duplicates\obj\Debug\net9.0\refint\Remove_duplicates.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Remove_duplicates\Remove_duplicates\obj\Debug\net9.0\Remove_duplicates.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Remove_duplicates\Remove_duplicates\obj\Debug\net9.0\Remove_duplicates.genruntimeconfig.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Remove_duplicates\Remove_duplicates\obj\Debug\net9.0\ref\Remove_duplicates.dll

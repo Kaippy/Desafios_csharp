@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Contar_vogais")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Remove_duplicates")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+070d56f81f7772cb2bc1bb2155af58e933ab5a5b")]
-[assembly: System.Reflection.AssemblyProductAttribute("Contar_vogais")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Contar_vogais")]
+[assembly: System.Reflection.AssemblyProductAttribute("Remove_duplicates")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Remove_duplicates")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
