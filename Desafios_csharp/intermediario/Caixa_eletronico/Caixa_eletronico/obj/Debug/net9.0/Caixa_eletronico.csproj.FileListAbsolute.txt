@@ -1,0 +1,15 @@
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Caixa_eletronico\Caixa_eletronico\bin\Debug\net9.0\Caixa_eletronico.exe
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Caixa_eletronico\Caixa_eletronico\bin\Debug\net9.0\Caixa_eletronico.deps.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Caixa_eletronico\Caixa_eletronico\bin\Debug\net9.0\Caixa_eletronico.runtimeconfig.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Caixa_eletronico\Caixa_eletronico\bin\Debug\net9.0\Caixa_eletronico.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Caixa_eletronico\Caixa_eletronico\bin\Debug\net9.0\Caixa_eletronico.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Caixa_eletronico\Caixa_eletronico\obj\Debug\net9.0\Caixa_eletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Caixa_eletronico\Caixa_eletronico\obj\Debug\net9.0\Caixa_eletronico.AssemblyInfoInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Caixa_eletronico\Caixa_eletronico\obj\Debug\net9.0\Caixa_eletronico.AssemblyInfo.cs
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Caixa_eletronico\Caixa_eletronico\obj\Debug\net9.0\Caixa_eletronico.csproj.CoreCompileInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Caixa_eletronico\Caixa_eletronico\obj\Debug\net9.0\Caixa_eletronico.sourcelink.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Caixa_eletronico\Caixa_eletronico\obj\Debug\net9.0\Caixa_eletronico.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Caixa_eletronico\Caixa_eletronico\obj\Debug\net9.0\refint\Caixa_eletronico.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Caixa_eletronico\Caixa_eletronico\obj\Debug\net9.0\Caixa_eletronico.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Caixa_eletronico\Caixa_eletronico\obj\Debug\net9.0\Caixa_eletronico.genruntimeconfig.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Caixa_eletronico\Caixa_eletronico\obj\Debug\net9.0\ref\Caixa_eletronico.dll
