@@ -1,0 +1,15 @@
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Calculo_fatorial\Calculo_fatorial\bin\Debug\net9.0\Calculo_fatorial.exe
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Calculo_fatorial\Calculo_fatorial\bin\Debug\net9.0\Calculo_fatorial.deps.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Calculo_fatorial\Calculo_fatorial\bin\Debug\net9.0\Calculo_fatorial.runtimeconfig.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Calculo_fatorial\Calculo_fatorial\bin\Debug\net9.0\Calculo_fatorial.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Calculo_fatorial\Calculo_fatorial\bin\Debug\net9.0\Calculo_fatorial.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Calculo_fatorial\Calculo_fatorial\obj\Debug\net9.0\Calculo_fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Calculo_fatorial\Calculo_fatorial\obj\Debug\net9.0\Calculo_fatorial.AssemblyInfoInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Calculo_fatorial\Calculo_fatorial\obj\Debug\net9.0\Calculo_fatorial.AssemblyInfo.cs
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Calculo_fatorial\Calculo_fatorial\obj\Debug\net9.0\Calculo_fatorial.csproj.CoreCompileInputs.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Calculo_fatorial\Calculo_fatorial\obj\Debug\net9.0\Calculo_fatorial.sourcelink.json
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Calculo_fatorial\Calculo_fatorial\obj\Debug\net9.0\Calculo_fatorial.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Calculo_fatorial\Calculo_fatorial\obj\Debug\net9.0\refint\Calculo_fatorial.dll
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Calculo_fatorial\Calculo_fatorial\obj\Debug\net9.0\Calculo_fatorial.pdb
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Calculo_fatorial\Calculo_fatorial\obj\Debug\net9.0\Calculo_fatorial.genruntimeconfig.cache
+C:\Users\kaipp\OneDrive\Área de Trabalho\Desafios\Desafios_csharp\intermediario\Calculo_fatorial\Calculo_fatorial\obj\Debug\net9.0\ref\Calculo_fatorial.dll
